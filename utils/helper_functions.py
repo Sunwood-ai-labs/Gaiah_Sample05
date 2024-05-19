@@ -4,3 +4,6 @@
 def print_details():
     """プログラムの詳細を印刷"""
     print("This program provides basic string operations and matrix calculations.")
+
+
+    
